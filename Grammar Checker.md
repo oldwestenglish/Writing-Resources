@@ -1,4 +1,4 @@
-# 拼写检查网站
+# 文章检查网站
   [VirtualWritingTutor](https://virtualwritingtutor.com/)
 
 1. Try each of the 4 self-scoring academic writing test tasks. The VWT automatically scores your essay on the IELTS 9-band scale. It’s experimental, but it represents a breakthrough in the provision of formative feedback and the use of artificial intelligence for the VWT. It employs what I call Latent Essay Feature Analysis (LEFA) and Model Essay Proximity Scoring (MEPS). Simply put, I have created model essays, extracted and measured a range of features. When a student submits an essay on the same topic, it measures those same features and generates a proximity score.
