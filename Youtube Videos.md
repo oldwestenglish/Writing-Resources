@@ -1,4 +1,4 @@
-Toefl Writing Resources
+# Toefl Writing Resources
 ---
 ## Writing Task One
 
@@ -7,7 +7,7 @@ Toefl Writing Resources
 ### Notes
 What you should write down on your scratch paper?
 
- | Read | List |
+>| Read | List |
  | point 1 + exapmle | point 1 + exapmle |
  | point 2 + exapmle | point 2 + exapmle |
  | point 3 + exapmle | point 3 + exapmle |
