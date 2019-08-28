@@ -7,12 +7,12 @@
 ### Notes
 #### What you should write down on your scratch paper?
 
->Read
+>Reading
 * point 1 + exapmle
 * point 2 + exapmle
 * point 3 + exapmle
  
->List 
+>Listening 
 * point 1 + exapmle
 * point 2 + exapmle
 * point 3 + exapmle
@@ -33,7 +33,7 @@
 
 3. Don't use personal pronouns(I, me, my)
 Instead, you should use:
-* The authoer...
+* The author...
 * The lecturer...
 
 4. Structure
