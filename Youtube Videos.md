@@ -7,10 +7,10 @@
 ### Notes
 #### What you should write down on your scratch paper?
 
->Reading
-* point 1 + exapmle
-* point 2 + exapmle
-* point 3 + exapmle
+**Reading
+>* point 1 + exapmle
+>* point 2 + exapmle
+>* point 3 + exapmle
  
 >Listening 
 * point 1 + exapmle
