@@ -44,11 +44,15 @@ b. participate in community activities,
 c. travelling
  ### 5. 绝对
 The best way to improve education is to raise teachers’ salaries.
+
 We should never tell a lie to another person.
+
 It is only worth watching movies that can teach us something about real life
 
  ### 6. 今昔对比
 In the past, people were more interested in improving their neighborhoods than
 they are today.
+
 It is easier for people to become educated today.
+
 In the past it was easier to identify what type of career or job would lead to a secure, successful future.
